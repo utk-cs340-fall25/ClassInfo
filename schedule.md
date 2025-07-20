@@ -3,14 +3,14 @@
 
 ***Week 1:***
 
-**Aug 19** Intro to class and intro to software engineering processes, Git and GitHub overview, assignment 1 (due Aug 22)
+**Aug 19** Intro to class and intro to software engineering processes, Git and GitHub overview, assignment 1 (due Aug 21)
 
-**Aug 21** SDLC: waterfall, assignment 2 (due Aug 27)
+**Aug 21** SDLC: waterfall, assignment 2 (due Aug 26)
 
 ---
 ***Week 2:***
 
-**Aug 26** Agile Methodologies, project ideas, assignment 3 (due Sept 3)
+**Aug 26** Agile Methodologies, project ideas, assignment 3 (due Sept 2)
 
 **Aug 28** Agile/Scrum, project ideas, start getting teams together
 
@@ -106,36 +106,32 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 ---
 ***Week 13:***
 
-**Nov 11**  Project presentations
+**Nov 11** 
 
-- 
-- 
-- 
-- 
 
 **Nov 13** Project presentations
 
-- 
-- 
-- 
-- 
+- 1
+- 2
+- 3
+- 4
 
 ---
 ***Week 14:***
 
 **Nov 18** Project presentations
 
-- 
-- 
-- 
+- 5
+- 6
+- 7
+- 8
 
 **Nov 20** Project presentations
 
-- 
-- 
-- 
-- 
-- 
+- 9
+- 10
+- 11
+- 12
 
 ---
 ***Week 15:***
@@ -144,11 +140,10 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 25**  Project presentations
 
-- 
-- 
-- 
-- 
-- 
+- 13
+- 14
+- 14
+- 16
 
 **Nov 27** No Class! (Thanksgiving):
 
@@ -159,17 +154,16 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Dec 2** Project presentations (last day of classes)
 
-- 
-- 
-- 
-- 
-- 
+- 17
+- 18
+- 19
+- 20
 
 
 ---
 ***Final:***
 
-**Dec ??** (Final exam timeslot: ??) Project presentations
+**Dec ??** (Final exam timeslot: ??) Project presentations (if needed)
 
 
 ---
