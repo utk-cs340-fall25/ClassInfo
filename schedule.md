@@ -17,14 +17,14 @@
 ---
 ***Week 3:***
 
-**Sept 2** Coding standards and Code Reviews, project ideas, get teams together Assingment 3 Due
+**Sept 2** Coding standards and Code Reviews, project ideas, get teams together Assignment 3 Due
 
-**Sept 4** Style Guide, assignment 3, Make sure everyone is in a group, Assignment 4 due
+**Sept 4** Style Guide, assignment 3, Make sure everyone is in a group, Assignment (Join a group) 4 due
 
 ---
 ***Week 4:***
 
-**Sept 9** Scrum, start thinking about the product backlog
+**Sept 9** Scrum, start thinking about the product backlog, Assignment 5 (Code Review) due
 
 **Sept 11** Agile, finalize project
 
@@ -33,7 +33,7 @@
 
 Sprint 1 planning meeting
 
-**Sept 16** Only Tuesday groups meet in class
+**Sept 16** Only Tuesday groups meet in class, Assignment 6 (Hello Plus) due
 
 **Sept 18** Only Thursday groups meet in class
 
