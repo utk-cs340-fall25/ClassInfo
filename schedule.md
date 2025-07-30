@@ -17,9 +17,9 @@
 ---
 ***Week 3:***
 
-**Sept 2** Coding standards and Code Reviews, project ideas, get teams together
+**Sept 2** Coding standards and Code Reviews, project ideas, get teams together Assingment 3 Due
 
-**Sept 4** Style Guide, assignment 3, Make sure everyone is in a group, assignment 4 
+**Sept 4** Style Guide, assignment 3, Make sure everyone is in a group, Assignment 4 due
 
 ---
 ***Week 4:***
@@ -72,16 +72,16 @@ Sprint 2 Review meeting and Sprint 3 planning meeting
 
 **Oct 14** Tuesday groups meet
 
-**Oct 16**  No Class! (Engineers Day). Thursday groups will do Sprint 2 review meetin bu Zoom
+**Oct 16**  Thursday groups meet
 
 ---
 ***Week 10:***
 
 Daily (Weekly) Scrum and status check for Sprint 3
 
-**Oct 21** only Tusday groups meet
+**Oct 21** 
 
-**Oct 23** only Thursday groups meet
+**Oct 23** 
 
 ---
 ***Week 11:***
