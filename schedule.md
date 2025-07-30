@@ -3,14 +3,14 @@
 
 ***Week 1:***
 
-**Aug 19** Intro to class and intro to software engineering processes, Git and GitHub overview, assignment 1 (due Aug 21)
+**Aug 19** Intro to class and intro to software engineering processes, Git and GitHub overview
 
-**Aug 21** SDLC: waterfall, assignment 2 (due Aug 26)
+**Aug 21** SDLC: waterfall, Assignment 1 due
 
 ---
 ***Week 2:***
 
-**Aug 26** Agile Methodologies, project ideas, assignment 3 (due Sept 2)
+**Aug 26** Agile Methodologies, project ideas, Assignment 2 due
 
 **Aug 28** Agile/Scrum, project ideas, start getting teams together
 
