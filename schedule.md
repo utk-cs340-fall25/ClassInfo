@@ -5,21 +5,22 @@
 
 **Aug 19** Intro to class and intro to software engineering processes, Git and GitHub overview
 
-**Aug 21** SDLC: waterfall, Assignment 1 due
+**Aug 21** SDLC: waterfall, Assignment 1 (Pull request) due
 
 ---
 ***Week 2:***
 
-**Aug 26** Agile Methodologies, project ideas, Assignment 2 due
+**Aug 26** Finish waterfall, Agile Methodologies, project ideas, Assignment 2 (Ideas) due
 
-**Aug 28** Agile/Scrum, project ideas, start getting teams together
+**Aug 28** Agile/Scrum, project ideas, start getting teams together, Assignment 2.5 (PRD) due
 
 ---
 ***Week 3:***
 
-**Sept 2** Coding standards and Code Reviews, project ideas, get teams together Assignment 3 Due
+**Sept 2** Coding standards and Code Reviews, project ideas, get teams together, Assignment 3 (User Stories) Due
 
-**Sept 4** Style Guide, assignment 3, Make sure everyone is in a group, Assignment (Join a group) 4 due
+**Sept 4** Style Guide,inc
+Make sure everyone is in a group, Assignment (Join a group) 4 due
 
 ---
 ***Week 4:***
