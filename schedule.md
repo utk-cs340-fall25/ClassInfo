@@ -34,7 +34,7 @@ Make sure everyone is in a group, Assignment (Join a group) 5 due
 
 Sprint 1 planning meeting
 
-**Sept 16** Only Tuesday groups meet in class, Assignment 6 (Hello Plus) due
+**Sept 16** Only Tuesday groups meet in class, Assignment 7 (Hello Plus) due
 
 **Sept 18** Only Thursday groups meet in class
 
