@@ -12,20 +12,20 @@
 
 **Aug 26** Finish waterfall, Agile Methodologies, project ideas, Assignment 2 (Ideas) due
 
-**Aug 28** Agile/Scrum, project ideas, start getting teams together, Assignment 2.5 (PRD) due
+**Aug 28** Agile/Scrum, project ideas, start getting teams together, Assignment 3 (PRD) due
 
 ---
 ***Week 3:***
 
-**Sept 2** Coding standards and Code Reviews, project ideas, get teams together, Assignment 3 (User Stories) Due
+**Sept 2** Coding standards and Code Reviews, project ideas, get teams together, Assignment 4 (Agile/Scrum) Due
 
 **Sept 4** Style Guide,inc
-Make sure everyone is in a group, Assignment (Join a group) 4 due
+Make sure everyone is in a group, Assignment (Join a group) 5 due
 
 ---
 ***Week 4:***
 
-**Sept 9** Scrum, start thinking about the product backlog, Assignment 5 (Code Review) due
+**Sept 9** Scrum, start thinking about the product backlog, Assignment 6 (Code Review) due
 
 **Sept 11** Agile, finalize project
 
