@@ -19,13 +19,12 @@
 
 **Sept 2** Coding standards and Code Reviews, project ideas, get teams together
 
-**Sept 4** Style Guide,inc
-Make sure everyone is in a group, Assignment 4 (Agile/Scrum) Due, Assignment (Join a group) 5 due
+**Sept 4** Github Copilot, maybe VMs/Containers, Make sure everyone is in a group, Assignment 4 (Agile/Scrum) Due, Assignment (Join a group) 5 due
 
 ---
 ***Week 4:***
 
-**Sept 9** Scrum, start thinking about the product backlog, Assignment 6 (Code Review) due
+**Sept 9** Scrum review, Intro to sprint assignments, Assignment 6 (Code Review) due
 
 **Sept 11** Agile, finalize project
 
