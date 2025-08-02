@@ -17,10 +17,10 @@
 ---
 ***Week 3:***
 
-**Sept 2** Coding standards and Code Reviews, project ideas, get teams together, Assignment 4 (Agile/Scrum) Due
+**Sept 2** Coding standards and Code Reviews, project ideas, get teams together
 
 **Sept 4** Style Guide,inc
-Make sure everyone is in a group, Assignment (Join a group) 5 due
+Make sure everyone is in a group, Assignment 4 (Agile/Scrum) Due, Assignment (Join a group) 5 due
 
 ---
 ***Week 4:***
