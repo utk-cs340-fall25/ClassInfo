@@ -106,7 +106,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 ---
 ***Week 13:***
 
-**Nov 11** 
+**Nov 11** TBD
 
 
 **Nov 13** Project presentations
