@@ -63,7 +63,7 @@ Daily (Weekly) Scrum and status check for Sprint 2
 
 **Oct 7** No Class! (Fall Break)
 
-**Oct 9** All groups meet in class. Security, Containers, Virtual Machines
+**Oct 9** All groups meet in class. Security, Containers, Virtual Machines. Maybe ethics.
 
 ---
 ***Week 9:***
@@ -99,7 +99,7 @@ Daily (Weekly) Scrum and status check for Sprint 4
 
 **Nov 4**  No Class! (election day)
 
-**Nov 6**  
+**Nov 6**  Finish any topics not yet covered from Security, Containers, Virtual Machines, Ethics.
 
 Note: There is no Sprint 4 review meeting. The final presentation will take the place of the sprint 4 demo
 
