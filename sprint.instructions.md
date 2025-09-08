@@ -31,7 +31,9 @@ in this ClassInfo github page.
   Do not include binary files (like images) or files
   auto-generated from tools. Do include those files in the reflection where you list the files you worked on.
 4. Individually: On Canvas, submit links to your reflection file and commits file. Also submit a short sprint 
-retrospective to describe what went well in the sprint and what could be improved for the next sprint.
+retrospective to describe what went well in the sprint and what could be improved for the next sprint. In the retrospective,
+include a short peer review. For each group member (including yourself), provide a 1-5 rating
+(1 = below expectations, 3 = met, 5 = exceptional), and optionally a short explaination.
   
  # Due Date
  
