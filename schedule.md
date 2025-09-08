@@ -90,7 +90,7 @@ Sprint 3 Review meeting and Sprint 4 planning meeting
 
 **Oct 28** only Tusday groups meet
 
-**Oct 2** only Thursday groups meet
+**Nov 2** only Thursday groups meet
 
 ---
 ***Week 12:***
