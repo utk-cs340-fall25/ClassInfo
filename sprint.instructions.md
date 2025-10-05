@@ -3,7 +3,7 @@
 ### Before the iteration
 - Meet with your group to discuss what needs to be done and how to get it done
 - Create and assign issues on GitHub
-- Set the issue’s milestone to the current iteration (sprint1, sprint2m etc)
+- Set the issue’s milestone to the current iteration (sprint1, sprint2, etc)
 - Provide a clear title and description in the issues
 - Each person should have several (at least 3 per person)
 ### During the iteration
