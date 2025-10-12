@@ -79,9 +79,9 @@ Sprint 2 Review meeting and Sprint 3 planning meeting
 
 Daily (Weekly) Scrum and status check for Sprint 3
 
-**Oct 21** TBD
+**Oct 21** only Tusday groups meet
 
-**Oct 23** TBD
+**Oct 23** only Thursday groups meet
 
 ---
 ***Week 11:***
