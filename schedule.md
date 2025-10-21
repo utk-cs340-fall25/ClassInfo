@@ -113,7 +113,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - 1
 - 2
-- 3 GitiLinked
+- 3 GitLinked
 - 4
 
 ---
