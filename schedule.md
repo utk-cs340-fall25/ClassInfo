@@ -113,7 +113,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - 1
 - 2
-- 3 GitLinked
+- GitLinked
 - 4
 
 ---
@@ -121,7 +121,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 18** Project presentations
 
-- 5
+- FitnessZenGarden
 - 6
 - 7
 - 8
@@ -140,7 +140,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 25**  Project presentations
 
-- 13
+- Fitness Tracker
 - 14
 - 14
 - 16
