@@ -111,7 +111,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 13** Project presentations
 
-- 1
+- NoPUppies4U 
 - 2
 - GitLinked
 - 4
@@ -128,7 +128,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Nov 20** Project presentations
 
-- 9
+- AirMan
 - 10
 - 11
 - 12
@@ -154,8 +154,8 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 **Dec 2** Project presentations (last day of classes)
 
-- 17
-- 18
+- High Heat
+- Music Taste Face Off
 - 19
 - 20
 
