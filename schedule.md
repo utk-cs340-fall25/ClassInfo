@@ -79,7 +79,7 @@ Sprint 2 Review meeting and Sprint 3 planning meeting
 
 Daily (Weekly) Scrum and status check for Sprint 3
 
-**Oct 21** only Tusday groups meet
+**Oct 21** only Tuesday groups meet
 
 **Oct 23** only Thursday groups meet
 
@@ -88,7 +88,7 @@ Daily (Weekly) Scrum and status check for Sprint 3
 
 Sprint 3 Review meeting and Sprint 4 planning meeting
 
-**Oct 28** only Tusday groups meet
+**Oct 28** only Tuesday groups meet
 
 **Nov 2** only Thursday groups meet
 
@@ -99,7 +99,7 @@ Daily (Weekly) Scrum and status check for Sprint 4
 
 **Nov 4**  No Class! (election day)
 
-**Nov 6**  Finish any topics not yet covered from Security, Containers, Virtual Machines, Ethics.
+**Nov 6**  All groups meet. Finish any topics not yet covered.
 
 Note: There is no Sprint 4 review meeting. The final presentation will take the place of the sprint 4 demo
 
