@@ -112,9 +112,9 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 **Nov 13** Project presentations
 
 - NoPUppies4U 
-- 2
+- Under Branch
 - GitLinked
-- 4
+- Green Room
 
 ---
 ***Week 14:***
@@ -122,9 +122,9 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 **Nov 18** Project presentations
 
 - FitnessZenGarden
-- 6
-- 7
-- 8
+- Medical Image Viewer
+- Roof MRI
+- 
 
 **Nov 20** Project presentations
 
