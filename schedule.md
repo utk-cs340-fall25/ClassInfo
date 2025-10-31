@@ -156,7 +156,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - High Heat
 - Music Taste Face Off
-- 19
+- Sound Circle
 - 20
 
 
