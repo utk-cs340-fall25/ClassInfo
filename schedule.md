@@ -129,9 +129,9 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 **Nov 20** Project presentations
 
 - AirMan
-- 10
-- 11
-- 12
+- 
+- 
+- 
 
 ---
 ***Week 15:***
@@ -141,9 +141,9 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 **Nov 25**  Project presentations
 
 - Fitness Tracker
-- 14
-- 14
-- 16
+- 
+- 
+- 
 
 **Nov 27** No Class! (Thanksgiving):
 
@@ -157,7 +157,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - High Heat
 - Music Taste Face Off
 - Sound Circle
-- 20
+- 
 
 
 ---
