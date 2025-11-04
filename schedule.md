@@ -141,7 +141,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 **Nov 25**  Project presentations
 
 - Fitness Tracker
-- 
+- Food
 - 
 - 
 
