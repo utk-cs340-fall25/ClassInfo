@@ -130,8 +130,8 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - AirMan
 - FocusFlowTracker
-- 
-- 
+- Path Finder
+- Simple Social
 
 ---
 ***Week 15:***
@@ -142,7 +142,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 - Fitness Tracker
 - Food
-- 
+- Knote
 - 
 
 **Nov 27** No Class! (Thanksgiving):
