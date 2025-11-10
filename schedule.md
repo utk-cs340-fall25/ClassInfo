@@ -116,7 +116,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - NoPUppies4U 
 - Under Branch
 - GitLinked
-- Green Room
+- 
 
 ---
 ***Week 14:***
@@ -148,6 +148,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - Food
 - Knote
 - Aim High.
+- Playlist Curator.
 
 **Nov 27** No Class! (Thanksgiving):
 
@@ -161,7 +162,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - High Heat
 - Music Taste Face Off
 - Sound Circle
-- Playlist Curator.
+- Green Room
 
 
 ---
