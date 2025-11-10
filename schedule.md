@@ -106,6 +106,8 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 ---
 ***Week 13:***
 
+***Note: Everyone is expected to be in attendance for all project presentations***
+
 **Nov 11** No Class! Meet with your groups if needed to prepare for final presentation.
 
 
@@ -118,6 +120,8 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 
 ---
 ***Week 14:***
+
+***Note: Everyone is expected to be in attendance for all project presentations***
 
 **Nov 18** Project presentations
 
