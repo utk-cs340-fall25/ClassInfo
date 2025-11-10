@@ -143,7 +143,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - Fitness Tracker
 - Food
 - Knote
-- 
+- Aim High.
 
 **Nov 27** No Class! (Thanksgiving):
 
@@ -157,14 +157,12 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - High Heat
 - Music Taste Face Off
 - Sound Circle
-- 
+- Playlist Curator.
 
 
 ---
 ***Final:***
 
-**Dec 10** (Final exam timeslot: 8am) Project presentations (if needed)
+**Dec 10** No Final Exam
 
 
----
-TBD: Playlist Curator, Aim High
