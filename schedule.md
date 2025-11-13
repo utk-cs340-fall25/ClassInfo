@@ -147,7 +147,6 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - Fitness Tracker
 - Food
 - Knote
-- Aim High.
 - Playlist Curator.
 
 **Nov 27** No Class! (Thanksgiving):
@@ -163,6 +162,7 @@ Note: There is no Sprint 4 review meeting. The final presentation will take the 
 - Music Taste Face Off
 - Sound Circle
 - Green Room
+- Aim High
 
 
 ---
