@@ -33,7 +33,7 @@ in this ClassInfo github page.
 4. Individually: On Canvas, submit links to your reflection file and commits file. Also submit a short sprint 
 retrospective to describe what went well in the sprint and what could be improved for the next sprint. In the retrospective,
 include a short peer review. For each group member (including yourself), provide a 1-5 rating
-(1 = below expectations, 3 = met, 5 = exceptional), and optionally a short explaination.
+(1 = below expectations, 3 = met, 5 = exceptional), and optionally a short explanation.
   
  # Due Date
  
